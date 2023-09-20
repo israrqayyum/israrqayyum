@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**israrqayyum/israrqayyum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m undergraduate student studying BS Commputer Science
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: israrqayyum7@gmail.com
 - 😄 Pronouns: he/him 🤔
 - ⚡ Fun fact: Gamer😄
--->
